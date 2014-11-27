@@ -1,8 +1,8 @@
 # TextMate Bundles
 
 ## Installing on TextMate 1
-1. cd `~/Library/Application Support/TextMate/Bundles/`
-2. git clone  . 
+1. cd ` ~/Library/Application\ Support/TextMate/Bundles/`
+2. git clone  git@github.com:sentrylab/textmate-bundles.git  .
 3. osascript -e 'tell app "TextMate" to reload bundles'
 
 ## Bundles
